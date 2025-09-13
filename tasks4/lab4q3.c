@@ -17,9 +17,10 @@ int main(){
         }
     }
     else if(num2 >num3){
-        printf("The largest nmber is: %d" ,num2);
+        printf("The largest number is: %d" ,num2);
     }
     else{
         printf("The largest number is: %d" , num3);
     }
+
 }
