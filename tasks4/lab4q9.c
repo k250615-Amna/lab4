@@ -2,7 +2,7 @@
 
 int main(){
     float attendance , intmarks;
-    printf("Enter your attendance in percetage: ");
+    printf("Enter your attendance percetage: ");
     scanf("%f", &attendance);
     printf("Enter your internal marks: ");
     scanf("%f", &intmarks);
@@ -12,4 +12,5 @@ int main(){
     else{
         printf("You can not appear in the exams");
     }
+
 }
