@@ -16,7 +16,7 @@ int main(){
         case '-':
         result = num1 - num2;
         break;
-         case '*' :
+        case '*' :
         result = num1 * num2;
         break;
         case '/':
@@ -24,4 +24,5 @@ int main(){
         break;
     }
     printf("%.2f" , result);
+
 }
